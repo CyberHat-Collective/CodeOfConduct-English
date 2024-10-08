@@ -1,7 +1,8 @@
-CyberHat Collective Code of Conduct
+<h1>CyberHat Collective Code of Conduct</h1>
 
-Purpose
-CyberHat Collective is a community dedicated to ethical hacking, cybersecurity skill development, and knowledge sharing. We aim to foster a welcoming and inclusive environment where all members can collaborate, learn, and grow in the field of cybersecurity. 
+- Purpose
+
+<b>CyberHat Collective</b> is a community dedicated to ethical hacking, cybersecurity skill development, and knowledge sharing. We aim to foster a welcoming and inclusive environment where all members can collaborate, learn, and grow in the field of cybersecurity. 
 This Code of Conduct applies to all members, attendees, and participants of CyberHat Collective, including our regular meetings, events, and online interactions.
 
 1. Core Values
