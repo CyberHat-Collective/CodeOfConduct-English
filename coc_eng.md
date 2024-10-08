@@ -69,10 +69,12 @@ This Code of Conduct applies to all members, attendees, and participants of Cybe
 <b>CyberHat Collective is a community built on trust, respect, and a shared passion for ethical hacking and cybersecurity. 
 
 ----
-Code of Conduct Version: 1.0
-Release Date: October 8th, 2024
-<b>By adhering to this Code of Conduct, we create an environment where everyone can learn, grow, and collaborate safely and responsibly.</b>
-<b>Let's work together to keep CyberHat Collective a positive, inclusive, and ethical space for all!</b>
+<h4>Code of Conduct Version: 1.0 </h4>
+<h4>Release Date: October 8th, 2024</h4>
 
-CyberHat Collective
-Improving Skills | Ethical Hacking | Community
+<p>By adhering to this Code of Conduct, we create an environment where everyone can learn, grow, and collaborate safely and responsibly.</p>
+Let's work together to keep CyberHat Collective a positive, inclusive, and ethical space for all!
+
+---
+<p>CyberHat Collective</p>
+<p>Improving Skills | Ethical Hacking | Community</p>
